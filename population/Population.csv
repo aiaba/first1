@@ -1,4 +1,4 @@
-year,total population,male,female,urban,countryside,birth rate,death rate,nature growth rate
+year,total population,male,female,urban,countryside,birth_rate,death_rate,nature_growth_rate
 1949,54167,28145,26022,5765,48402,36,20,16
 1950,55196,28669,26527,6169,49027,37,18,19
 1951,56300,29231,27069,6632,49668,37.8,17.8,20
